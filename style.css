@@ -1,0 +1,198 @@
+.All{
+    height: 3850px;
+    width: 1500px;
+    background-color: cornsilk;
+    /* background-image: url(world-cup-trophy.jpg); */
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.AD{
+    background-image: url(CUP.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.navbar{
+    margin-left: 70px;
+    margin-right: 90px;
+  
+}
+
+.navbar:hover{
+    transition: width 1ms;
+}
+
+.logo {
+      height: 80px;
+     width: 250px;
+}
+
+.search{
+    margin-left: 610px;
+    height: 30px;
+    margin-top: 12px;
+    border-radius: 15px;
+}
+
+.About-content{          /*home detail*/
+    color: white;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 1000px;
+
+}
+
+.About-content:hover{
+    color: red;
+    transform:scale(1.1);
+    transition: height 1s;
+}
+
+.big-text{              /*span*/
+    color: yellow;
+}
+
+.pg{                    /*paragrapgh*/
+    color: white;
+    margin-left: 1000px;
+ }
+
+.button{                /*button*/
+    background-color: blue;
+    height: 40px;
+    width: 130px;
+    border-radius: 5px;
+}
+
+.Top-headlines{
+    background-color: blueviolet;
+}
+.top{
+    
+    color: white;
+    margin-left: 90px;
+}
+
+#TEAMS{
+    background-color: brown;
+ }
+
+.BCCI {
+    height: 220px;
+    width: 250px;
+    margin-top: 50px;
+    margin-left: 50px;
+   
+}
+.WIND{
+    height: 220px;
+    width: 250px;
+    margin-top:50px;
+    margin-left: 60px;
+}
+
+
+.melborn {
+    height: 320px;
+    width: 735px;
+    margin-top:10px;
+
+}
+
+#News{
+    margin-top: 40px;   
+}
+
+.kohli{
+    height: 250px;
+    width: 350px;
+    margin-top: 50px;
+    margin-left: 30px;
+}
+ 
+.virat{
+    height: 450px;
+    width: 900px;
+    margin-top: 50px;
+}
+
+
+.virat:hover{
+    transform:scale(1.1);
+    transition: height 1s;
+}
+
+#Viru {
+    padding: 10px 2px 5px 10px;
+    font-size: 20px;
+    font-style: italic;
+ 
+}
+#Viru:hover{
+    color: purple;
+    transform:scale(1.1);
+    transition: height 1s;
+}
+
+
+.V{
+    color: royalblue;
+}
+
+.sachin{
+    height: 450px;
+    width: 900px;
+    margin-top: 50px;
+}
+.sachin:hover{
+    transform:scale(1.1);
+    transition: height 1s;
+}
+
+.yuvi {
+    height: 550px;
+    width: 350px;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+
+.yuvrsh {
+    height: 450px;
+    width: 900px;
+    margin-top: 50px;
+ }
+
+ .yuvrsh:hover{
+    transform:scale(1.1);
+    transition: height 1s;
+}
+
+
+#eighteen{
+    color: darkorange;
+}
+
+#run{
+    color: crimson;
+}
+
+.year{
+    color: crimson;
+}
+
+
+#images{
+    height: 350px;
+    width: 200px;
+    
+ } 
+ #images:hover{
+    transform:scale(1.1);
+    transition: height 1s;
+}
+#socond{background-image: url(melborn.cricket.jpg);
+background-repeat: no-repeat;}
